@@ -7,8 +7,8 @@ I'm Toshit, a student studying computer engineering and aspiring to become a pro
 ![Profile Views](https://komarev.com/ghpvc/?username=toshit-dh)
 
 ## Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/toshit-d-h-a2607b23b/)
-- [![LeetCode](https://img.shields.io/badge/LeetCode-Compete-yellow)](https://leetcode.com/u/dato_19/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/toshit-d-h-a2607b23b/)
+ [![LeetCode](https://img.shields.io/badge/LeetCode-Compete-yellow)](https://leetcode.com/u/dato_19/)
 
 ## Passionate About
 - Native Android Development 📱
@@ -32,7 +32,7 @@ I'm Toshit, a student studying computer engineering and aspiring to become a pro
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
 ## Stats
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshit-dh&layout=compact)
-- ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=toshit-dh&show_icons=true&line_height=27&count_private=true&theme=default)
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=toshit-dh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshit-dh&layout=compact)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=toshit-dh&show_icons=true&line_height=27&count_private=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=toshit-dh)
 
