@@ -11,7 +11,7 @@ I'm Toshit, a student studying computer engineering and aspiring to become a pro
  [![LeetCode](https://img.shields.io/badge/LeetCode-Compete-yellow)](https://leetcode.com/u/dato_19/)
 
 ## Passionate About
-- Native Android Development 📱
+Native Android Development (Jetpack Compose)📱
 
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
