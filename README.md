@@ -39,3 +39,93 @@ Native Android Development (Jetpack Compose)📱
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=toshit-dh&show_icons=true&line_height=27&count_private=true&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=toshit-dh)
 
+
+## Respositories
+
+
+<div class="card" display="flex">
+  <div class="container">
+    <h3>Jetpack Compose</a></h3>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/blog-app-android">Blog App</a></h4>
+        <p>Description: A blog application built using Jetpack Compose for Android.</p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/study-smart-app">Study Smart App</a></h4>
+        <p>Description: An educational app designed to help students study efficiently.</p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/khabar-app">Khabar App</a></h4>
+        <p>Description: News application developed with Jetpack Compose for reading latest news.</p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/stock_app">Stocks App</a></h4>
+        <p>Description: Application for tracking stock market information using Jetpack Compose.</p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/snake-game">Snake Game</a></h4>
+        <p>Description: Classic snake game implemented with Jetpack Compose.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+##
+
+<div class="card">
+  <div class="container">
+    <h3>Native App using Java</h3>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/travel-planner-app">Travel App</a></h4>
+        <p>Description: Java-based application for planning and managing travel itineraries.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+##
+
+<div class="card">
+  <div class="container">
+    <h3>React</h3>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/realtime-chat-app">Baatein</a></h4>
+        <p>Description: Real-time chat application built with React for seamless communication.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+##
+
+<div class="card">
+  <div class="container">
+    <h3>Spring</h3>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/blog-app-backend">Blog App Backend</a></h4>
+        <p>Description: Backend server for the blog application, implemented with Spring Framework.</p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/banking-app-backend">Banking App Backend</a></h4>
+        <p>Description: Backend system for a banking application, developed using Spring Boot.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
