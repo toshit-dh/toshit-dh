@@ -97,6 +97,20 @@ Native Android Development (Jetpack Compose)📱
 
 <div class="card">
   <div class="container">
+    <h3>Flutter</h3>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/amazon-clone">Amazon Clone</a></h4>
+        <p>Description: A E-Commerce Amazon Clone App</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+##
+
+<div class="card">
+  <div class="container">
     <h3>React</h3>
     <div class="card">
       <div class="container">
