@@ -141,5 +141,8 @@ Native Android Development (Jetpack Compose)📱
   </div>
 </div>
 
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=toshit-dh)](https://github.com/ryo-ma/github-profile-trophy)
 
 
