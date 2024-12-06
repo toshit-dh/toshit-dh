@@ -118,6 +118,12 @@ Native Android Development (Jetpack Compose)📱
         <p>Description: Real-time chat application built with React for seamless communication.</p>
       </div>
     </div>
+   <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/prakruti-parv">Prakruti Parv</a></h4>
+        <p>Description: A nature conservation project.</p>
+      </div>
+    </div>
   </div>
 </div>
 
