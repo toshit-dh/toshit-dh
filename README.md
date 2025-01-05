@@ -47,6 +47,10 @@ Native Android Development (Jetpack Compose)📱
   <div class="container">
     <h3>Jetpack Compose</a></h3>
     <div class="card">
+     <div class="container">
+        <h4><a href="https://github.com/toshit-dh/attendance-app">Attendance App</a></h4>
+        <p>Description: A android app built using modern jetpack toolkit which uses room and work manager to track attendance.</p>
+      </div>
       <div class="container">
         <h4><a href="https://github.com/toshit-dh/blog-app-android">Blog App</a></h4>
         <p>Description: A blog application built using Jetpack Compose for Android.</p>
