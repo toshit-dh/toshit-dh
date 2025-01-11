@@ -138,7 +138,7 @@ Native Android Development (Jetpack Compose)📱
     <h3>Blockchain</h3>
     <div class="card">
       <div class="container">
-        <h4><a href="https://github.com/toshit-dh/smart-contract-lottery.git">zSmart Contract Lottery</a></h4>
+        <h4><a href="https://github.com/toshit-dh/smart-contract-lottery.git">Smart Contract Lottery</a></h4>
         <p>Description: A smart contract which funds the winner in a lottery</p>
       </div>
     </div>
