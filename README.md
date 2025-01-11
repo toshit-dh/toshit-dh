@@ -101,6 +101,40 @@ Native Android Development (Jetpack Compose)📱
 
 <div class="card">
   <div class="container">
+    <h3>Spring</h3>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/blog-app-backend">Blog App Backend</a></h4>
+        <p>Description: Backend server for the blog application, implemented with Spring Framework.</p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/banking-app-backend">Banking App Backend</a></h4>
+        <p>Description: Backend system for a banking application, developed using Spring Boot.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+##
+
+<div class="card">
+  <div class="container">
+    <h3>AI Langflow Automation</h3>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/social-lens.git">Social Lens</a></h4>
+        <p>Description: A Super Mind Hackathon Social Media Analytics Project</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+##
+
+<div class="card">
+  <div class="container">
     <h3>Flutter</h3>
     <div class="card">
       <div class="container">
@@ -131,25 +165,6 @@ Native Android Development (Jetpack Compose)📱
   </div>
 </div>
 
-##
-
-<div class="card">
-  <div class="container">
-    <h3>Spring</h3>
-    <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/blog-app-backend">Blog App Backend</a></h4>
-        <p>Description: Backend server for the blog application, implemented with Spring Framework.</p>
-      </div>
-    </div>
-    <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/banking-app-backend">Banking App Backend</a></h4>
-        <p>Description: Backend system for a banking application, developed using Spring Boot.</p>
-      </div>
-    </div>
-  </div>
-</div>
 
 ## Trophies
 
