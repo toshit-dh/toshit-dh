@@ -62,22 +62,42 @@ Native Android Development (Jetpack Compose)📱
         <p>Description: An educational app designed to help students study efficiently.</p>
       </div>
     </div>
-    <div class="card">
+<!--     <div class="card">
       <div class="container">
         <h4><a href="https://github.com/toshit-dh/khabar-app">Khabar App</a></h4>
         <p>Description: News application developed with Jetpack Compose for reading latest news.</p>
       </div>
-    </div>
-    <div class="card">
+    </div> -->
+<!--     <div class="card">
       <div class="container">
         <h4><a href="https://github.com/toshit-dh/stock_app">Stocks App</a></h4>
         <p>Description: Application for tracking stock market information using Jetpack Compose.</p>
       </div>
-    </div>
-    <div class="card">
+    </div> -->
+<!--     <div class="card">
       <div class="container">
         <h4><a href="https://github.com/toshit-dh/snake-game">Snake Game</a></h4>
         <p>Description: Classic snake game implemented with Jetpack Compose.</p>
+      </div>
+    </div> -->
+  </div>
+</div>
+
+##
+
+<div class="card">
+  <div class="container">
+    <h3>React</h3>
+   <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/prakruti-parv">Prakruti Parv</a></h4>
+        <p>Description: A nature conservation project.</p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="container">
+        <h4><a href="https://github.com/toshit-dh/realtime-chat-app">Baatein</a></h4>
+        <p>Description: Real-time chat application built with React for seamless communication.</p>
       </div>
     </div>
   </div>
@@ -108,12 +128,12 @@ Native Android Development (Jetpack Compose)📱
         <p>Description: Backend server for the blog application, implemented with Spring Framework.</p>
       </div>
     </div>
-    <div class="card">
+<!--     <div class="card">
       <div class="container">
         <h4><a href="https://github.com/toshit-dh/banking-app-backend">Banking App Backend</a></h4>
         <p>Description: Backend system for a banking application, developed using Spring Boot.</p>
       </div>
-    </div>
+    </div> -->
   </div>
 </div>
 
@@ -154,26 +174,6 @@ Native Android Development (Jetpack Compose)📱
       <div class="container">
         <h4><a href="https://github.com/toshit-dh/amazon-clone">Amazon Clone</a></h4>
         <p>Description: A E-Commerce Amazon Clone App</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-##
-
-<div class="card">
-  <div class="container">
-    <h3>React</h3>
-    <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/realtime-chat-app">Baatein</a></h4>
-        <p>Description: Real-time chat application built with React for seamless communication.</p>
-      </div>
-    </div>
-   <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/prakruti-parv">Prakruti Parv</a></h4>
-        <p>Description: A nature conservation project.</p>
       </div>
     </div>
   </div>
