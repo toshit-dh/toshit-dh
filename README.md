@@ -1,7 +1,7 @@
 # Welcome to my GitHub Profile! 👋
 
 ## Introduction
-I'm Toshit, a student studying computer engineering and aspiring to become a proficient coder and developer.
+I'm a passionate Computer Engineering student with a strong interest in Android Development, Full-Stack Web Development, and Blockchain. I love solving real-world problems through code and building impactful projects!
 
 ## Views 
 ![Profile Views](https://komarev.com/ghpvc/?username=toshit-dh)
@@ -42,146 +42,30 @@ Native Android Development (Jetpack Compose)📱
 
 ## Respositories
 
+### 🚀 Android Development (Jetpack Compose)
+- 📌 [Attendance App](https://github.com/toshit-dh/attendance-app) - A Room DB & WorkManager-powered attendance tracker.
+- 📝 [Blog App](https://github.com/toshit-dh/blog-app-android) - A blogging app for content creators.
 
-<div class="card" display="flex">
-  <div class="container">
-    <h3>Jetpack Compose</a></h3>
-    <div class="card">
-     <div class="container">
-        <h4><a href="https://github.com/toshit-dh/attendance-app">Attendance App</a></h4>
-        <p>Description: A android app built using modern jetpack toolkit which uses room and work manager to track attendance.</p>
-      </div>
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/blog-app-android">Blog App</a></h4>
-        <p>Description: A blog application built using Jetpack Compose for Android.</p>
-      </div>
-    </div>
-    <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/study-smart-app">Study Smart App</a></h4>
-        <p>Description: An educational app designed to help students study efficiently.</p>
-      </div>
-    </div>
-<!--     <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/khabar-app">Khabar App</a></h4>
-        <p>Description: News application developed with Jetpack Compose for reading latest news.</p>
-      </div>
-    </div> -->
-<!--     <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/stock_app">Stocks App</a></h4>
-        <p>Description: Application for tracking stock market information using Jetpack Compose.</p>
-      </div>
-    </div> -->
-<!--     <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/snake-game">Snake Game</a></h4>
-        <p>Description: Classic snake game implemented with Jetpack Compose.</p>
-      </div>
-    </div> -->
-  </div>
-</div>
+### 🌍 Web Development
+- 🌱 [Prakruti Parv](https://github.com/toshit-dh/prakruti-parv) - A nature conservation initiative.
+- 💬 [Baatein](https://github.com/toshit-dh/realtime-chat-app) - A real-time React-based chat app.
 
-##
-
-<div class="card">
-  <div class="container">
-    <h3>React</h3>
-   <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/prakruti-parv">Prakruti Parv</a></h4>
-        <p>Description: A nature conservation project.</p>
-      </div>
-    </div>
-    <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/realtime-chat-app">Baatein</a></h4>
-        <p>Description: Real-time chat application built with React for seamless communication.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-##
-
-<div class="card">
-  <div class="container">
-    <h3>Native App using Java</h3>
-    <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/travel-planner-app">Travel App</a></h4>
-        <p>Description: Java-based application for planning and managing travel itineraries.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-##
-
-<div class="card">
-  <div class="container">
-    <h3>Spring</h3>
-    <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/blog-app-backend">Blog App Backend</a></h4>
-        <p>Description: Backend server for the blog application, implemented with Spring Framework.</p>
-      </div>
-    </div>
-<!--     <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/banking-app-backend">Banking App Backend</a></h4>
-        <p>Description: Backend system for a banking application, developed using Spring Boot.</p>
-      </div>
-    </div> -->
-  </div>
-</div>
-
-##
-
-<div class="card">
-  <div class="container">
-    <h3>AI Langflow Automation</h3>
-    <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/social-lens.git">Social Lens</a></h4>
-        <p>Description: A Super Mind Hackathon Social Media Analytics Project</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-##
-
-<div class="card">
-  <div class="container">
-    <h3>Blockchain</h3>
-    <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/smart-contract-lottery.git">Smart Contract Lottery</a></h4>
-        <p>Description: A smart contract which funds the winner in a lottery</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-##
-
-<div class="card">
-  <div class="container">
-    <h3>Flutter</h3>
-    <div class="card">
-      <div class="container">
-        <h4><a href="https://github.com/toshit-dh/amazon-clone">Amazon Clone</a></h4>
-        <p>Description: A E-Commerce Amazon Clone App</p>
-      </div>
-    </div>
-  </div>
-</div>
+### 🔥 Blockchain & AI
+- 🎰 [Smart Contract Lottery](https://github.com/toshit-dh/smart-contract-lottery) - A smart contract-powered lottery system.
+- 🤖 [Social Lens](https://github.com/toshit-dh/social-lens.git) - AI-based social media analytics tool.
 
 
 ## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=toshit-dh)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Activity 
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=toshit-dh&theme=react-dark)](https://github.com/toshit-dh)
+
+
+
+
+
 
 
