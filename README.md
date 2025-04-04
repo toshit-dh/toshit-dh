@@ -45,6 +45,7 @@ Native Android Development (Jetpack Compose)📱
 ### 🚀 Android Development (Jetpack Compose)
 - 📌 [Attendance App](https://github.com/toshit-dh/attendance-app) - A Room DB & WorkManager-powered attendance tracker.
 - 📝 [Blog App](https://github.com/toshit-dh/blog-app-android) - A blogging app for content creators.
+- ✈️ [Travel Planner App](https://github.com/toshit-dh/travel-planner-app) - A travel planner with itenary support.
 
 ### 🌍 Web Development
 - 🌱 [Prakruti Parv](https://github.com/toshit-dh/prakruti-parv) - A nature conservation initiative.
