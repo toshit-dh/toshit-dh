@@ -41,8 +41,8 @@ Native Android Development (Jetpack Compose)📱
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=dotnet&logoColor=white)
+<!--![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)-->
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshit-dh&layout=compact)
